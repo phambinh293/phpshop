@@ -1,0 +1,51 @@
+body{
+  font-family: Roboto, sans-serif;
+}
+
+.ant-layout{
+  min-height: 100vh;
+}
+
+.bg-yl{
+  background: #ffd333;
+}
+
+.min-h{
+  min-height: 100vh;
+}
+
+.mt-3{
+  margin-top: 300px;
+}
+
+.demo-logo-vertical{
+  height: 64px;
+  background-color: #ffd333;;
+}
+
+.ant-layout-sider{
+  min-width: 230px !important;
+}
+
+.ant-layout-sider-collapsed{
+  min-width: 80px !important;
+}
+
+.t-lg{
+  font-size: 26px !important;
+}
+
+.img-acc{
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+
+main{
+  background-color: transparent !important;
+}
+
+.error{
+  color:red;
+  font-size: 13px;
+}
